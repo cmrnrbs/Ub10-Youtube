@@ -114,7 +114,7 @@ fun HomeScreen(navController: NavController) {
             Spacer(modifier = Modifier.height(20.dp))
 
             Text(
-                text = "Categories",
+                text = "Popular",
                 style = Typography.body1,
                 fontSize = 22.sp,
                 color = BlackTextColor
